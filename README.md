@@ -3,8 +3,14 @@
 This is a meme generator app. You can also share a meme from it. 
 
 # New Features!
+  - Splash screen added with Animation 
+  
+  ![Screenshot_1611299897](https://user-images.githubusercontent.com/71203077/105531049-c02c8300-5d0e-11eb-801d-9956c4d0717d.png)
 
-  - Swipw left for next meme
+
+# Features!
+
+  - Swipe left for next meme
   
   
   ![present_Moment](https://user-images.githubusercontent.com/71203077/103450502-9c60b900-4cdd-11eb-9b8f-47985822ef27.jpg)
