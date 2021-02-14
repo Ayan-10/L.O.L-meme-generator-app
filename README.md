@@ -29,6 +29,7 @@ You can also:
 # New Features!
 
   - Splash screen added with Animation 
+  <b> Attension Please : I don't promote smoking. I did not find any copyright free image except this so I choose this image I have not any bad intension </b>
   
   
   ![Screenshot_1611299897](https://user-images.githubusercontent.com/71203077/105531049-c02c8300-5d0e-11eb-801d-9956c4d0717d.png)
