@@ -44,14 +44,18 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@+id/meme" />
+
     <Button
         android:id="@+id/share"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:textSize="18dp"
-        android:text="Share"
-        android:padding="30dp"
         android:layout_margin="8dp"
+        android:outlineAmbientShadowColor="@color/white"
+        android:padding="38dp"
+        android:text="Share"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        app:backgroundTint="#FAF8CD"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/guideline"
         app:layout_constraintStart_toStartOf="parent" />
@@ -60,10 +64,12 @@
         android:id="@+id/save"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:text="Save"
-        android:padding="30dp"
-        android:textSize="18dp"
         android:layout_margin="8dp"
+        android:padding="38dp"
+        android:text="Save"
+        android:textSize="18sp"
+        app:backgroundTint="#FAF8CD"
+        android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="@+id/guideline" />
